@@ -151,8 +151,7 @@ Engineering and Technology, 7(4), 1475-1480.
 4. Miao, H., Liu, Y., Li, J., Li, X., &amp; Tian, Y. (2020).
 Design and implementation of fuel level
 monitoring system based on ultrasonic sensors.
-Journal of Physics: Conference Series, 1634(1),
-012128.
+Journal of Physics: Conference Series, 1634(1).
 5. Mohanraj, G., &amp; Shanmugapriya, A. (2020). IoT
 based fuel level monitoring system using ultrasonic
 sensor. Journal of Physics: Conference Series,
