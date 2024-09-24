@@ -78,6 +78,8 @@ that is reliable and cost-effective.
 
 #### Fig-1 : Mechanical Float
 
+![1](https://github.com/Lokesh-J-03/Digital-Fuel-Gauge/blob/main/Picture1.png)
+
 #### 4. Proposed Method
 
 The proposed digital fuel gauge system uses an Arduino
@@ -91,6 +93,8 @@ quantity of fuel and can be adjusted based on the specific
 fuel tank dimensions.
 
 #### Fig-2 : Digital fuel Gauge
+
+![1](https://github.com/Lokesh-J-03/Digital-Fuel-Gauge/blob/main/Picture2.png)
 
 #### 5. SYSTEM SPECIFICATIONS
 1. Arduino Uno : The Arduino Uno is a
